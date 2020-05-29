@@ -1,6 +1,7 @@
 #!/bin/python3
 # Author: Savitaa Venkateswaran
 # Date code accepted for submission on hackerrank: May 28th 2020
+# Difficulty: MEDIUM
 # Problem from HackerRank: https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=false
 
 # Problem statement:
